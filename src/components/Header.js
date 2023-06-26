@@ -20,7 +20,7 @@ const Header = () => {
         {/* nav - dekstop mode */}
         <nav className="hidden xl:flex gap-x-12 font-semibold font-primary">
           <Link
-            to={"/"}
+            to={"/reactpage"}
             className="text-[#696c6d] hover:text-primary transtition"
           >
             Home
