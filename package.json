@@ -1,6 +1,6 @@
 {
   "name": "introduction",
-  "homepage": "http://anjasp012.github.io/reactpage",
+  "homepage": "https://anjasp012.github.io/reactpage/",
   "version": "0.1.0",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
